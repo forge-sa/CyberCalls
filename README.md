@@ -2,6 +2,8 @@
 
 Live call subtitles in the style of *Cyberpunk: Edgerunners*, popping up right on your desktop.
 
+[![Video Example of Call](https://raw.githubusercontent.com/forge-sa/CyberCalls/main/assets/image.png)](https://raw.githubusercontent.com/forge-sa/CyberCalls/main/assets/video.mov)
+
 While you're on an AyuGram call, everything said by you and the other person is transcribed locally with
 [Whisper](https://github.com/ggml-org/whisper.cpp) and appears as a stack of animated **CALL** boxes with
 typewriter text: your lines in green on the right, theirs in red on the left. No cloud, nothing leaves your machine.
